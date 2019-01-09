@@ -6,7 +6,7 @@ Please input the data in csv format by providing the address of the test file in
 Please ensure that the first line of the data set is not the heading since the first line in the csv file is most likely a heading.\
 Use the following command\
 	data <- read.csv("\~/testdata_161082.csv", header=TRUE)\
-where "\~/testdata_161082.csv" is the address of the test file.\
+where "\~/testdata_161082.csv" is the address of the test file.
 
 Run the code.
 
